@@ -9,41 +9,41 @@ export default function SuperRare() {
   const data = [
     {
       image: super1,
-      series: "Gloop Series",
-      title: "Purple Man",
-      price: 2.99,
-      tag: 12983,
+      series: "Squid Game Series",
+      title: "Seong Gi-Hun",
+      price: 6.79,
+      tag: 11943,
       time: 1
     },
     {
       image: super2,
-      series: "Gloop Series",
-      title: "Beige",
-      price: 2.99,
+      series: "Money Heist Series",
+      title: "Raquel",
+      price: 3.55,
       tag: 12983,
-      time: 1
+      time: 2
     },
     {
       image: super3,
-      series: "Gloop Series",
-      title: "Red Man",
-      price: 2.99,
-      tag: 12983,
-      time: 1
+      series: "Money Heist Series",
+      title: "Berlin",
+      price: 4.99,
+      tag: 17883,
+      time: 2
     },
     {
       image: super4,
-      series: "Gloop Series",
-      title: "Green Man",
-      price: 2.99,
-      tag: 12983,
+      series: "Squid Game Series",
+      title: "Kang Sae-Byeok",
+      price: 5.7,
+      tag: 18395,
       time: 1
     }
   ]
   return (
     <div className="super-rare">
       <div className="title-container">
-        <h2 className="title">LE Super Rare Auction</h2>
+        <h2 className="title">Squid Game X Money Heist</h2>
         <p className="description">We have released four limited edition NFT's on which you can bid via <a href="#">OpenSea.</a>
         </p>
       </div>

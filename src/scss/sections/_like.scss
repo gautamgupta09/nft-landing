@@ -4,6 +4,7 @@
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 4rem;
+        padding: 50px;
         .content {
             background-color: var(--accent-color2);
             display: flex;

@@ -6,9 +6,9 @@ export default function Signup() {
     <div className="signup">
       <div className="container">
         <div className="content">
-          <p className="sub-title">Launching Soon</p>
-          <h1 className="title">An NFT like no other</h1>
-          <p className="description">Dont' miss out on the release of our new NFT. Sign Up below to receive updates when we go live.</p>
+          <p className="sub-title">GET YOUR FIRST DIGITAL ASSET</p>
+          <h1 className="title">Why Netflix & Chill when you can NFT & Chill? 😎</h1>
+          <p className="description">Dont' miss out!! Sign Up below to receive updates when we go live.</p>
           <button>Sign Up</button>
         </div>
         <div className="image-container">
